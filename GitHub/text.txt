@@ -1,0 +1,6 @@
+ai-chat-assistant/
+├── app.py                  （你的聊天助手）
+├── rag_app.py              （你的知识库）
+├── requirements.txt        （依赖清单）
+├── README.md               （项目介绍）
+└── .gitignore              （忽略密钥文件）
